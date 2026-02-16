@@ -1,36 +1,20 @@
- 
-# DevOps Practice Project
+# 🚀 DevOps Practice Project
 
-This is my first DevOps project.
+Hi, this is my first DevOps practice repository.
 
-Created by Gangothri.
-Added README file
-# 🚀 DevOps CI/CD Mini Project
+## 📌 About This Project
+This repository is created to practice DevOps tools and concepts.
 
-## 📌 Project Overview
-This project demonstrates a basic DevOps workflow using Git, GitHub and CI/CD concepts.  
-A simple HTML website is version controlled and deployed using automation tools.
-
----
-
-## 🛠 Tools & Technologies Used
+## 🛠 Tools I Will Learn
 - Linux
-- Git
-- GitHub
+- Git & GitHub
 - Docker
-- Jenkins (CI/CD)
-- AWS (Deployment)
+- CI/CD
+- AWS (Cloud)
+
+## 📂 Project Goal
+To become a DevOps Engineer by practicing daily.
 
 ---
 
-## ⚙️ Project Workflow
-
-1. Created a simple HTML application.
-2. Version controlled using Git.
-3. Pushed code to GitHub repository.
-4. Configured CI/CD pipeline.
-5. Automated build and deployment process.
-
----
-
-## 📂 Project Structure
+⭐ This is just the beginning!
